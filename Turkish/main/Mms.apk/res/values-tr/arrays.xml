@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>Bir kez</item>
+        <item>İki kez</item>
+        <item>Üç kez</item>
+        <item>Beş kez</item>
+        <item>On kez</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>İsim</item>
+        <item>Takma Ad</item>
+        <item>Telefon</item>
+        <item>Mail</item>
+        <item>Şirket</item>
+        <item>IM</item>
+        <item>SIP Hesabı</item>
+        <item>Doğum Günü</item>
+        <item>Website</item>
+        <item>Adres</item>
+        <item>Not</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+        <item>10 saniye</item>
+        <item>Diğer...</item>
+    </string-array>
+	 <string-array name="resent_via_entries_sms">
+        <item>SMS hizmetini kullan</item>
+        <item>Cloud SMS hizmetini kullan</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>MMS hizmetini kullan</item>
+        <item>Cloud MMS hizmetini kullan</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Her zaman</item>
+        <item>Sessizdeyken</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Alınma zamanını göster</item>
+        <item>Gönderme zamanını göster</item>
+    </string-array>    
+</resources>

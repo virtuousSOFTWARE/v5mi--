@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Klasik</item>
+        <item>Klasik(Sallantı yok)</item>
+        <item>Soldur</item>
+        <item>Yuvarlan</item>
+        <item>Sayfa gibi çevir</item>
+        <item>Harmanla</item>
+        <item>3B Döndür</item>
+        <item>3B Küp</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Temaya göre ayarla</item>
+        <item>Merkezi</item>
+        <item>Sola kaydır</item>
+        <item>Sağa kaydır</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Varsayılan</item>
+        <item>Klasik</item>
+    </string-array>
+	<string-array name="editing_mode_entries">
+        <item>Simgeler</item>
+        <item>Widgetler</item>
+        <item>Duvar kağıdı</item>
+        <item>Efektler</item>
+    </string-array>
+	<string-array name="gadget_weather_image">
+        <item>Açık</item>
+        <item>Bulutlu</item>
+        <item>Puslu</item>
+        <item>Sisli</item>
+        <item>Şiddetli yağmur fırtınası</item>
+        <item>Yağmur fırtınası</item>
+        <item>Yoğun yağmur yağışı</item>
+        <item>Fırtına</item>
+        <item>Hafif yağmur</item>
+        <item>Yoğun yağmur yağışı</item>
+        <item>Yağmur</item>
+        <item>Çiseleme</item>
+        <item>Karla karışık yağmur</item>
+        <item>Kar fırtınası</item>
+        <item>Aralıklı kar yağışı</item>
+        <item>Yağun kar yağışı</item>
+        <item>Kar yağışı</item>
+        <item>Hafif kar yağışı</item>
+        <item>Yoğun kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Hafif kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Dolu yağışı</item>
+        <item>Tozlu</item>
+        <item>Puslu</item>
+    </string-array>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="send_item">
+        <item>Mesaj</item>
+        <item>E-posta</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Rüzgar hızı:</item>
+        <item>UV indeksi:　</item>
+        <item>Giyim:</item>
+        <item>Hissedilen:</item>
+        <item>Oto yıkama indeksi:</item>
+        <item>Kurutma indeksi:</item>
+        <item>Sabah egzersiz:</item>
+        <item>Boş zaman:</item>
+    </string-array>
+   <string-array name="weather_image">
+        <item>Açık</item>
+        <item>Bulutlu</item>
+        <item>Puslu</item>
+        <item>Sisli</item>
+        <item>Şiddetli yağmur</item>
+        <item>Yağmur fırtınası</item>
+        <item>Yoğun yağmur yağışı</item>
+        <item>Gökgürültülü yağmur yağışı</item>
+        <item>Sağanak yağmur yağışı</item>
+        <item>Yoğun yağmur yağışı</item>
+        <item>Yağmur yağışı</item>
+        <item>Çiseleme</item>
+        <item>Karla karışık yağmur</item>
+        <item>Kar fırtınası</item>
+        <item>Aralıklı kar yağışı</item>
+        <item>Yağun kar yağışı</item>
+        <item>Kar yağışı</item>
+        <item>Hafif kar yağışı</item>
+        <item>Kar fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Dolu</item>
+        <item>Toz </item>
+        <item>Puslu</item>
+    </string-array>
+	<string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"Bir şemsiye almayı unutmayın, şiddetli yağmur yağıyor."</item>
+        <item>"Bir şemsiye almayı unutmayın, şiddetli yağmur yağıyor."</item>
+        <item>"Bir şemsiye almayı unutmayın, şiddetli yağmur yağıyor."</item>
+        <item>Dışarı çıkacaksanız, şemsiye almayı unutmayın!</item>
+        <item>Dışarı çıkacaksanız, şemsiye almayı unutmayın!</item>
+        <item>Dışarı çıkacaksanız, şemsiye almayı unutmayın!</item>
+        <item>"Bugün yağmur yağacak, şemsiye almayı unutmayın!"</item>
+        <item>"Yağmur çiseliyor, şemsiye alsanız iyi olur!"</item>
+        <item>"Karla karışık yağmur yağıyor, şemsiye alsanız iyi olur!"</item>
+        <item>"Sağanak kar yağıyor, bir şapka veye eşarp giymeyi unutmayın!"</item>
+        <item>"Bugün kar yağacak, şapka ve atkı almayı unutmayın!"</item>
+        <item>"Sağanak kar yağıyor, bir şapka veye eşarp giymeyi unutmayın!"</item>
+        <item>"Hafif kar yağıyor, bir şapka ve eşarp giymeyi unutmayın!"</item>
+        <item>Hafif bir kar yağışı var, şapka ve atkı giymeyi unutmayın.</item>
+        <item>Çok güçlü bir kum fırtınası var, bir yüz maskesi giymeyi unutmayın.</item>
+        <item>"Bir şemsiye almayı unutmayın,hafif yağmur yağıyor."</item>
+        <item>Çok güçlü bir kum fırtınası var, bir yüz maskesi giymeyi unutmayın.</item>
+        <item>Çok güçlü bir kum fırtınası var, bir yüz maskesi giymeyi unutmayın.</item>
+        <item>"Dolu yağıyor! Dikkatli yürüyün!"</item>
+    </string-array>
+</resources>

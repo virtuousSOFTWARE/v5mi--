@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="alert_message_delete_record">Seçili kayıtları silmek istiyor musunuz?</string>
+  <string name="app_name">Ses Kaydedici</string>
+  <string name="audio_db_album_name">Ses Kayıtları</string>
+  <string name="audio_db_artist_name">Kayıtlarınız</string>
+  <string name="audio_db_playlist_name">Benim kayıtlarım</string>
+  <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="back">Geri</string>
+  <string name="button_ok">Tamam</string>
+  <string name="call_record">Çağrı kaydı(%d)</string>
+  <string name="call_record_or">veya</string>
+  <string name="default_record_name">Isimsiz kayıt</string>
+  <string name="delete">Sil</string>
+  <string name="delete_dialog_message">Geçerli kayıdı silmek istiyor musunuz?</string>
+  <string name="deleting_message">Siliniyor...</string>
+  <string name="dialog_content_storage_full">Depolama alanı az olduğu için kayıt durduruldu, dosya gezgini ile yer açmak istiyor musunuz?</string>
+  <string name="dialog_play">Oynat</string>
+  <string name="dialog_send">Gönder</string>
+  <string name="dialog_title_storage_full">Depolama alanı dolu</string>
+  <string name="dialog_warning">Dikkat</string>
+  <string name="duration_format_hour">%sh</string>
+  <string name="duration_format_minute">%sm</string>
+  <string name="duration_format_second">%ss</string>
+  <string name="error_app_internal">Dahili uygulama hatası</string>
+  <string name="error_app_internal_title">Ses kaydedici hatası</string>
+  <string name="error_filename_too_long">Dosya adı çok uzun</string>
+  <string name="error_mediadb_new_record">Ses verisi kayıt edilemedi</string>
+  <string name="error_sdcard_access">Harici ve dahili depolama alanına erişilemiyor</string>
+  <string name="fm_record">Radyo kaydı (%d)</string>
+  <string name="hour" Format="false">%d Saat</string>
+  <string name="insert_sd_card">Sd kart gerekiyor</string>
+  <string name="low_battery_error">Pil durumu %5 olduğunda kayıt durdurulur ve saklanır.</string>
+  <string name="low_battery_message_title">Pil seviyesi düşük!</string>
+  <string name="low_battery_warning">Beklenmedik kapanmalar ses kaydına zarar verebilir, cihazınızın şarjının yeterli olduğuna emin olun.</string>
+  <string name="mark_now">(Geçerli)</string>
+  <string name="max_length_reached">Maksimum uzunluğa ulaşıldı</string>
+  <string name="menu_settings">Ayarlar</string>
+  <string name="menu_view_record_list">Kayıtları görüntüle</string>
+  <string name="message_file_size_error">%s için desteklenen maksimum kayıt süresine ulaşıldı!</string>
+  <string name="minute" Format="false">%d Dakika</string>
+  <string name="no_file">Kayıt yok</string>
+  <string name="notification_playback">Kayıt oynatılıyor…</string>
+  <string name="notification_recording">Kayıt ediliyor...</string>
+  <string name="notification_stopped">Kayıt durduruldu</string>
+  <string name="notification_warning" Format="false">Düşük hafıza ( %d dakikadan az )...</string>
+  <string name="open_file_explorer">Dosya yöneticisini aç</string>
+  <string name="overwrite_dialog_message" Format="false">%s Zaten var. Üzerine yazmak istiyor musunuz?</string>
+  <string name="pause">Duraklat</string>
+  <string name="play_record">Oynat</string>
+  <string name="preference_enable_earpiece_summary">Harici oynatma için alıcı kullan</string>
+  <string name="preference_enable_earpiece_title">Sesi oynamak için alıcı kullan</string>
+  <string name="preference_led_indicator">Kayıt göstergesi</string>
+  <string name="preference_led_indicator_prompt">Ekran kilitlendiğinde durum çubuğu ve LED göstergesi görüntülenir.</string>
+  <string name="preference_record_scenes_dialog_title">Bir kayıt ortamı seçin</string>
+  <string name="preference_record_type_dialog_title">Kayıt türünü seçin</string>
+  <string name="preference_record_type_title">Kayıt türü</string>
+  <string name="preference_scenes">Ortam ayarları</string>   
+  <string name="preference_silent_mode">Sessiz modda kayıt</string>
+  <string name="preference_silent_mode_summary">Sessiz modda kayıt işlemi için ayarlayın</string>
+  <string name="record_list">Kayıt listesi</string>
+  <string name="record_loading">Kayıt yükleniyor...</string>
+  <string name="record_name_hour">.</string>
+  <string name="record_picker_title">Kaydı seçin</string>
+  <string name="record_saving">Kayıt dosyası kaydediliyor..!</string>
+  <string name="recording">Kaydediliyor...</string>
+  <string name="recording_stopped">Kayıt durduruldu</string>
+  <string name="rename">Adlandır</string>
+  <string name="rename_dialog_title">Bu kaydı adlandır</string>
+  <string name="rename_duplicate">Kayıt adı zaten var, tekrar deneyin:</string>
+  <string name="rename_illegal">Geçersiz kayıt adı, tekrar deneyin:</string>
+  <string name="sd_card_not_available">SD kart kullanılabilir değil!</string>
+  <string name="search_for_recordings_in_folders">Klasörlerde ara</string>
+  <string name="second" formatted="false">%d saniye</string>
+  <string name="send_to">Gönder</string>
+  <string name="sound_recorder_settings">Kayıt Ayarları</string>
+  <string name="start_recording">Kaydı başlat</string>
+  <string name="status_bar_anti_disturb">Telefon sessiz modda, devam etmek için ses seviyesini ayarlayın.</string>
+  <string name="status_bar_back">Kaydediciye dönmek için tıklayın</string>
+  <string name="status_bar_recording">Kaydediliyor...</string>
+  <string name="status_bar_recording_pause">"Kayıt duraklatıldı."</string>
+  <string name="stop_recording">Kaydı durdur</string>
+  <string name="storage_is_full">Depolama alanı doldu!</string>
+  <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="toast_max_record_time">Uyg: %1$s azami kayıt süresi %2$s</string>
+  <string name="toast_uninstall_fileexplorer">Dosya yöneticisi yüklü değil!</string>
+  <string name="unknown_caller">Bilinmeyen</string>
+  <string name="view_list_of_recordings">Kayıtlara gözat</string>
+</resources>

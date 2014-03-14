@@ -1,0 +1,4 @@
+<strings>
+    <string name="slider_text" value="Alarmı Kapat" />
+    <string name="snooze_message" value="%d Dakika Ertele" />
+</strings>
